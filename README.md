@@ -1,1 +1,3 @@
-# Backhaul-Script-v1
+# Backhaul-Script
+
+A script to install and manage backhaul tunnel.
